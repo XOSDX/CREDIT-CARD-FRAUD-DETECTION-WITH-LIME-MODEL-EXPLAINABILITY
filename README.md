@@ -55,4 +55,4 @@ This project is licensed under the MIT License. See the [LICENSE](LICENSE) file 
 
 ## Contact
 
-For questions or suggestions, please reach out to (mailto:ommsubrato.dey@gmail.com).
+For questions or suggestions, please reach out to (mailto: ommsubrato.dey@gmail.com).
