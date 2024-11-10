@@ -24,7 +24,7 @@ This project focuses on building a robust **Credit Card Fraud Detection System**
 - Scikit-learn
 - LIME (for interpretability)
 
-Install the dependencies with:  pip install -r requirements.txt
+Install the dependencies with ->  pip install -r requirements.txt
 
 
 ## Installation
@@ -43,11 +43,11 @@ Install the dependencies with:  pip install -r requirements.txt
 
 ## Results
 
-The notebook provides detailed analysis and visualizations, showcasing the effectiveness of the fraud detection model along with the LIME explanations. 
+The notebook provides detailed analysis and visualizations, showcasing the fraud detection model's effectiveness along with the LIME explanations. 
 
 ## Contributing
 
-Contributions are welcome! Please fork this repository, make your changes, and submit a pull request.
+Contributions are welcome! Please fork this repository, make changes, and submit a pull request.
 
 ## License
 
@@ -55,4 +55,4 @@ This project is licensed under the MIT License. See the [LICENSE](LICENSE) file 
 
 ## Contact
 
-For questions or suggestions, please reach out to [your-email@example.com](mailto:ommsubrato.dey@gmail.com).
+For questions or suggestions, please reach out to (mailto:ommsubrato.dey@gmail.com).
