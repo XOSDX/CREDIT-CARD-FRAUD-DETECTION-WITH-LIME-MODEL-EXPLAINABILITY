@@ -29,7 +29,7 @@ Install the dependencies with:  pip install -r requirements.txt
 
 ## Installation
 
-1. Clone this repository:  git clone https://github.com/your-username/credit-card-fraud-detection-system.git
+1. Clone this repository:  git clone https://github.com/XOSDX/credit-card-fraud-detection-system.git
 2.  Navigate to the project directory:  cd credit-card-fraud-detection-system
 3. Install the dependencies:  pip install -r requirements.txt
 4. Open the Jupyter notebook: jupyter notebook PROJECT_2_CREDIT_CARD_FRAUD_DETECTION_SYSTEM_ON_BASIS_OF_MULTIPLE_FEATURES_WITH_NECESSARY_EXPLAINABILITY_USING_LIME_XAI_MODEL.ipynb
